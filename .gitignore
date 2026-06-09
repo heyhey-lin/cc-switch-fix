@@ -29,4 +29,5 @@ copilot-api
 .history
 CODEBUDDY.md
 .github
+!.github/workflows
 mainWindow.js
